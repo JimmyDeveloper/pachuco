@@ -1,0 +1,43 @@
+body{
+	
+	background: url(../img/fondo.png);
+}
+.formu{
+	width: 500px;
+	margin: 100px auto;
+	background: #FFFFFF;
+	padding: 20px;
+	border-radius: 5px;
+}
+hr{
+	border: 2px solid #17085A;
+}
+input:focus{
+	color: #E72727;
+	border: 2px solid ;
+}
+.enviar{
+	background: #53AC53;
+	width: 430px;
+	margin: auto;
+	color:#fff;
+	font-size: 25px;
+}
+.contenedor{
+	background: #fff;
+	color:#000;
+	margin: 50px auto;
+	padding: 20px;
+	font-size: 35px;
+	width: 800px;
+	height: auto;
+}
+.id{
+	width: 450px;
+	border-radius:10px;
+}
+
+li.li {
+	float: right;
+	margin-top: -44px;
+}
